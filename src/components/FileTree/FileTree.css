@@ -1,0 +1,19 @@
+.folder {
+  margin-left: 10px;
+}
+
+.folder span {
+  cursor: pointer;
+}
+
+.folder-contents {
+  margin-left: 20px;
+}
+
+.file {
+  margin-left: 30px;
+}
+
+button {
+  margin: 8px;
+}
